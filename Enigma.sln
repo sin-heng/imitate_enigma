@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Enigma", "Enigma\Enigma.vcxproj", "{02189F10-5E44-42AA-AE50-5D23C2B2FD22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02189F10-5E44-42AA-AE50-5D23C2B2FD22}.Debug|x64.ActiveCfg = Debug|x64
+		{02189F10-5E44-42AA-AE50-5D23C2B2FD22}.Debug|x64.Build.0 = Debug|x64
+		{02189F10-5E44-42AA-AE50-5D23C2B2FD22}.Debug|x86.ActiveCfg = Debug|Win32
+		{02189F10-5E44-42AA-AE50-5D23C2B2FD22}.Debug|x86.Build.0 = Debug|Win32
+		{02189F10-5E44-42AA-AE50-5D23C2B2FD22}.Release|x64.ActiveCfg = Release|x64
+		{02189F10-5E44-42AA-AE50-5D23C2B2FD22}.Release|x64.Build.0 = Release|x64
+		{02189F10-5E44-42AA-AE50-5D23C2B2FD22}.Release|x86.ActiveCfg = Release|Win32
+		{02189F10-5E44-42AA-AE50-5D23C2B2FD22}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDBD42F2-CAB3-4811-ADAE-2BD9D6C451DE}
+	EndGlobalSection
+EndGlobal
